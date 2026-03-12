@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Jaseem
 
-<!--
-**mhdjaseemtk/mhdjaseemtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+⚡ MERN Stack | Next.js | Node.js | Redis | RabbitMQ  
+🎨 UI/UX Designer (Figma)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🍎 Apple Clone (MERN)
+- 📚 Learning Platform
+- 🛒 Healix E-commerce (Microservices)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Frontend:
+- React
+- Next.js
+- Tailwind
+
+Backend:
+- Node.js
+- Express
+- MongoDB
+- Redis
+- RabbitMQ
+
+Tools:
+- Docker
+- AWS
+- Git
+
+## 🌐 Portfolio
+- https://jaseem.work
+
+## 📫 Contact
+- Email: yourmail@gmail.com
+- LinkedIn: linkedin.com/in/yourname
