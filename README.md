@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jaseem.work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaseem.work" height="30" width="40" /></a>
+<a href="https://dev.to/mhdjaseemtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mhdjaseemtk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhdjaseemtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhdjaseemtk" height="30" width="40" /></a>
 <a href="https://instagram.com/mhdjaseemtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhdjaseemtk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mhdjaseemtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mhdjaseemtk" height="30" width="40" /></a>
